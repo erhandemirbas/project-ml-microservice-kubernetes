@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/erhandemirbas/project-ml-microservice-kubernetes.svg?style=svg
 
 ## Project Overview
 
