@@ -1,1 +1,12 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Port: 8000
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   260  100    48  100   212      1      8  0:00:48  0:00:26  0:00:22    11{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+NAME         READY   STATUS    RESTARTS   AGE
+machineapi   1/1     Running   0          148m
+
