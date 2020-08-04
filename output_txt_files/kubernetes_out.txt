@@ -7,6 +7,15 @@ Port: 8000
   ]
 }
 
+output of command "kubectl get pods":
 NAME         READY   STATUS    RESTARTS   AGE
 machineapi   1/1     Running   0          148m
+
+output after calling run_kubernetes.sh:
+NAME         READY   STATUS    RESTARTS   AGE
+machineapi   1/1     Running   0          109m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
 
